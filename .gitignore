@@ -1,0 +1,4 @@
+slprj/
+*.slxc
+Simulink Cache Files/
+__pycache__/
